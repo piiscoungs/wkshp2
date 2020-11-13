@@ -56,3 +56,9 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 - Day 2:  [Earth Bioingeniering - Epidemics](dia3.html) 
 - [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ)
 
+
+# EcoComplex Collaborators Team {.appendix}
+
+* Melisa Leyton - UBA IAA (Graphic design)
+
+* Tomas Marina - CONICET CADIC (Organization)
