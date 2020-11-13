@@ -1,0 +1,35 @@
+---
+title: "2do Workshop de Sistemas Complejos"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Programa Día 2 / Programm Day 2  
+
+* 10 de Diciembre de 2020 / December 10 2020
+
+
+
+--------------------------------------------------------------------------------------------
+  Hora/     Expositor /           Título / 
+   Time     Speaker               Title
+------- ------------------------  ----------------------------------------------------------
+ 9:00       Max Rietkerk          Resilience and self-organization of complex ecosystems
+ 9:50                             
+
+10:00       Sebastian Abades      No confirmed title / No confirmed time  
+10:50                                  
+
+11:00       Natalia Morandeira    Not confirmed title 
+11:50                             
+
+12:30       Hugo Fort             No confirmed title / No confirmed time  
+13:20 
+
+13:30       Fernanda Valdovinos     Not confirmed title  
+14:20                                
+
+-------------------------------------------------------------------------------------------- 

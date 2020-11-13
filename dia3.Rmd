@@ -1,0 +1,35 @@
+---
+title: "2do Workshop de Sistemas Complejos"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Programa Día 3 / Programm Day 3  
+
+* 11 de Diciembre de 2020 / December 11 2020
+
+
+
+--------------------------------------------------------------------------------------------
+  Hora/     Expositor /           Título / 
+   Time     Speaker               Title
+------- ------------------------  ----------------------------------------------------------
+ 9:00       Ricard Sole           Bioengineering the biosphere: the multiscale picture
+ 9:50                             
+
+10:00       Ben Bond-Lamberty     No confirmed title  
+10:50                                  
+
+11:00       Matias Arim           Containment to outbreak tipping points in COVID-19
+11:50                            
+
+12:30       Pilar Fernandez       Vector-borne diseases as complex socio-ecological systems
+13:20 
+
+13:30       Leonardo Saravia      Not confirmed time  
+14:20                                
+
+-------------------------------------------------------------------------------------------- 

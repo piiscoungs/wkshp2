@@ -14,12 +14,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 --------------------------------------------------------------------------------------------
-   Hora     Expositor             Título
- 
+  Hora/     Expositor /           Título / 
+   Time     Speaker               Title
 ------- ------------------------  ----------------------------------------------------------
  9:00       Ignasi Bartomeus      Beyond plant-pollinator networks: How intraspecific 
  9:50                             and interspecific interactions shape community persistence
 
-10:00       Susanne Kortsch       Food‐web structure varies along environmental gradients in 
-10:50                                  a high‐latitude marine ecosystem
+10:00       Susanne Kortsch       No confirmed title
+10:50                               
+
+11:00       Korinna Allhoff       The paradox of the bryozoans: Surprising insights into the 
+11:50                                  feedback structure and (in)stability of competitive 
+                                  communities from a mathematical network approach
+   
+12:30       Guy Bunin             Fingerprints of high-dimensionality in diverse communities
+13:20 
+
+
+13:30       Samir Suweis          No confirmed title /  
+14:20                             No confirmed time
+
 -------------------------------------------------------------------------------------------- 

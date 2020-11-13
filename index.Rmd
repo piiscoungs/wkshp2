@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# Presentation 
 
 :::: {style="display: grid; grid-template-columns: 180px auto; grid-column-gap: 10px;"}
 
@@ -29,6 +30,7 @@ Complex systems as interdependent units, which present adaptive behaviors and em
 ::::
 
 ---
+# Presentación
 
 :::: {style="display: grid; grid-template-columns: auto 180px; grid-column-gap: 10px;"}
 
@@ -49,7 +51,8 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 # Links
 
-- Day 1:  [Networks and Beyond](dia1/programa.html) 
-- Day 2:  [Earth Self organization](dia1/programa.html) 
+- Day 1:  [Networks and Beyond](dia1.html) 
+- Day 2:  [Self organization in complex systems](dia2.html) 
+- Day 2:  [Earth Bioingeniering - Epidemics](dia3.html) 
 - [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ)
 
