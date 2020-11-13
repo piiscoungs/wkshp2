@@ -1,0 +1,55 @@
+---
+title: "2do Workshop de Sistemas Complejos"
+description: |
+  2nd Complex Systems Workshop  - From ecosystems to society and epidemics.
+  December 9 to 15, from 9:00 a.m. to 3:00 p.m.
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+:::: {style="display: grid; grid-template-columns: 180px auto; grid-column-gap: 10px;"}
+
+::: {}
+
+<img src="img/LogoPIISCO_UNGS_m.png" style="width:180px;border-radius: 50%;"/>
+
+:::
+
+::: {}
+Complex systems as interdependent units, which present adaptive behaviors and emerging dynamics are today on everyone's lips, epidemics, fires, climate change, the loss of biodiversity, all of them resulting from complex interactions and feedbacks that have the possibility of changing the balance of the earth as a whole. These extensive and varied networks of interactions that connect different and distant parts are the reason for this workshop: different approaches and different topics that come together in the study of complex systems.
+
+:::
+
+::::
+
+---
+
+:::: {style="display: grid; grid-template-columns: auto 180px; grid-column-gap: 10px;"}
+
+
+::: {}
+
+Los sistemas complejos como unidades interdependientes, que presentan comportamientos adaptativos y dinámicas emergentes están hoy en dia en la boca de todos, las epidemias, los fuegos, el cambio climático, la perdida de la biodiversidad todos ellos resultantes de complejas interacciones y retroalimentaciones que tienen la posibildad de cambiar el equilibrio de la tierra como un todo. Estas extensas y variadas redes de interacciones que conectan distintas y lejanas partes son el motivo de este workshop: diferentes aproximaciones y distintos temas que confluyen en el estudio de los sistemas complejos.
+
+:::
+
+::: {}
+
+<img src="img/LogoPIISCO_UNGS_m.png" style="width:180px;border-radius: 50%;"/>
+
+:::
+
+::::
+
+# Links
+
+- Day 1:  [Networks and Beyond](dia1/programa.html) 
+- Day 2:  [Earth Self organization](dia1/programa.html) 
+- [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ)
+

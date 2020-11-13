@@ -1,0 +1,25 @@
+---
+title: "2do Workshop de Sistemas Complejos"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Programa Día 1 / Programm Day 1  
+
+* 9 de Diciembre de 2020 / December 9 2020
+
+
+
+--------------------------------------------------------------------------------------------
+   Hora     Expositor             Título
+ 
+------- ------------------------  ----------------------------------------------------------
+ 9:00       Ignasi Bartomeus      Beyond plant-pollinator networks: How intraspecific 
+ 9:50                             and interspecific interactions shape community persistence
+
+10:00       Susanne Kortsch       Food‐web structure varies along environmental gradients in 
+10:50                                  a high‐latitude marine ecosystem
+-------------------------------------------------------------------------------------------- 
