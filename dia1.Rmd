@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
    Hora    Time     Expositor /                               Título / 
   (ARG)   (GMT)     Speaker                                   Title
 ------- ------- --------------------------------------------- ----------------------------------------------------------
- 9:00   12:00       [Ignasi Bartomeus](www.bartomeuslab.com)  Beyond plant-pollinator networks: How intraspecific 
+ 9:00   12:00   [Ignasi Bartomeus](https://bit.ly/33alHVJ)    Beyond plant-pollinator networks: How intraspecific 
  9:50   12:50                                                 and interspecific interactions shape community persistence
                        
 10:00   13:00       Susanne Kortsch                           No confirmed title
