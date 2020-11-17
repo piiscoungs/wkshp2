@@ -13,23 +13,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
---------------------------------------------------------------------------------------------
-  Hora/     Expositor /           Título / 
-   Time     Speaker               Title
-------- ------------------------  ----------------------------------------------------------
- 9:00       Max Rietkerk          Resilience and self-organization of complex ecosystems
- 9:50                             
+-------------------------------------------------------------------------------------------------------------------------------
+   Hora    Time     Expositor /                                      Título / 
+  (ARG)   (GMT)     Speaker                                          Title
+------- ------- ---------------------------------------------------- ----------------------------------------------------------
+ 9:00   12:00   [Max Rietkerk](https://bit.ly/3pBkwrR)               Resilience and self-organization of complex ecosystems
+ 9:50   12:50                                                        
+                                   
+10:00   13:00       Sebastian Abades                                 No confirmed title / No confirmed time  
+10:50   13:50                                                             
+                                   
+11:00   14:00       Natalia Morandeira                               Not confirmed title 
+11:50   14:50                                                        
+                                   
+12:30   15:30   [Hugo Fort](https://bit.ly/32T5JPE)                  Making Quantitative Predictions About Species Abundances 
+13:20   16:20                                                        In Multispecies Communities With Incomplete Information
+                                   
+13:30   16:30   [Fernanda Valdovinos](https://www.fsvaldovinos.com/) Integrating Network Ecology with other theories: The cases 
+14:20   17:20                                                        of Economic dynamics and Niche Theory
+                                    
+------------------------------------------------------------------------------------------------------------------------------- 
 
-10:00       Sebastian Abades      No confirmed title / No confirmed time  
-10:50                                  
 
-11:00       Natalia Morandeira    Not confirmed title 
-11:50                             
-
-12:30       Hugo Fort             No confirmed title / No confirmed time  
-13:20 
-
-13:30       Fernanda Valdovinos     Not confirmed title  
-14:20                                
-
--------------------------------------------------------------------------------------------- 

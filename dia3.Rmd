@@ -12,24 +12,23 @@ knitr::opts_chunk$set(echo = FALSE)
 * 11 de Diciembre de 2020 / December 11 2020
 
 
-
---------------------------------------------------------------------------------------------
-  Hora/     Expositor /           Título / 
-   Time     Speaker               Title
-------- ------------------------  ----------------------------------------------------------
- 9:00       Ricard Sole           Bioengineering the biosphere: the multiscale picture
- 9:50                             
-
-10:00       Ben Bond-Lamberty     No confirmed title  
-10:50                                  
-
-11:00       Matias Arim           Containment to outbreak tipping points in COVID-19
-11:50                            
-
-12:30       Pilar Fernandez       Vector-borne diseases as complex socio-ecological systems
-13:20 
-
-13:30       Leonardo Saravia      Not confirmed time  
-14:20                                
-
--------------------------------------------------------------------------------------------- 
+----------------------------------------------------------------------------------------------------------------------
+   Hora    Time      Expositor /                            Título / 
+  (ARG)   (GMT)      Speaker                                Title
+------- ------- ------------------------------------------- ----------------------------------------------------------
+ 9:00   12:00   [Ricard Solé](https://bit.ly/38YPqUW)       Bioengineering the biosphere: the multiscale picture
+ 9:50   12:50                                               
+                          
+10:00   13:00   [Ben Bond-Lamberty](https://bit.ly/2INlUa2) Tree mortality and tipping points in the forest carbon cycle”?
+10:50   13:50                                                    
+                          
+11:00   14:00       Matias Arim                             Containment to outbreak tipping points in COVID-19
+11:50   14:50                                              
+                          
+12:30   15:30       Pilar Fernandez                         Vector-borne diseases as complex socio-ecological systems
+13:20   16:20   
+                
+13:30   16:30      [Juan Rocha](https://www.juanrocha.se/)  Detecting resilience loss in ecosystems
+14:20   17:20                                 
+                 
+----------------------------------------------------------- ------------------------------------------------------------
