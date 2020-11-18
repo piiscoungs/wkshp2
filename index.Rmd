@@ -55,7 +55,7 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 # Registration
 
-- The talks will be transmitted live by our [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ), but a limited number of participants could participate by meet video-conferencing, the interested ones have to fill the following form
+- The talks will be broadcast live on our [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ), but a limited number of participants may join by google [Meet](https://meet.google.com/) video-conferencing, the interested ones have to fill the following form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScb-Iho5rz54BqWLAR3tjyXGSZUb_5hAWp50uu4wpaGVuqfhQ/viewform?embedded=true" width="640" height="1306" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
