@@ -2,7 +2,7 @@
 title: "2do Workshop de Sistemas Complejos"
 description: |
   2nd Complex Systems Workshop  - From ecosystems to society and epidemics.
-  December 9 to 15, from 9:00 a.m. to 3:00 p.m.
+  December 9 to 11, from 9:00 a.m. to 3:00 p.m.(GMT-3)
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -49,13 +49,23 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 ::::
 
-# Links
+# Inscription
 
-- Day 1:  [Networks and Beyond](dia1.html) 
-- Day 2:  [Self organization in complex systems](dia2.html) 
-- Day 2:  [Earth Bioingeniering - Epidemics](dia3.html) 
-- [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ)
+- The talks will be transmitted live by our [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ), but a limited number of participants could participate by meet video-conferencing, the interested ones have to fill the following form
 
+
+
+# Day 1 - December 9 2020
+
+-  [Plant-pollination networks, competitive and high dimensionality communities, and adaptive metabolic strategies](dia1.html) 
+
+# Day 2 - December 10 2020
+
+- [Self organization in complex systems](dia2.html) 
+
+# Day 3 - December 11 2020
+
+- [Earth Bioingenieri`ng - Epidemics](dia3.html) 
 
 # EcoComplex Collaborators Team {.appendix}
 
