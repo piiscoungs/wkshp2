@@ -19,6 +19,8 @@ navbar:
       href: dia2.html
     - text: "Day 3"
       href: dia3.html
+    - text: "cdc"
+      href: cdc.html
     - icon: fab fa-github
       href: https://github.com/piiscoungs/wkshp2
     - icon: fab fa-twitter

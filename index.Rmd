@@ -41,6 +41,8 @@ Complex systems as interdependent units, which present adaptive behaviors and em
 
 Los sistemas complejos como unidades interdependientes, que presentan comportamientos adaptativos y dinámicas emergentes están hoy en dia en la boca de todos, las epidemias, los fuegos, el cambio climático, la perdida de la biodiversidad todos ellos resultantes de complejas interacciones y retroalimentaciones que tienen la posibildad de cambiar el equilibrio de la tierra como un todo. Estas extensas y variadas redes de interacciones que conectan distintas y lejanas partes son el motivo de este workshop: diferentes aproximaciones y distintos temas que confluyen en el estudio de los sistemas complejos.
 
+<a href="https://twitter.com/intent/tweet?screen_name=ecomplex_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @ecomplex_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 :::
 
 ::: {}
@@ -51,23 +53,27 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 ::::
 
-# Inscription
+# Registration
 
 - The talks will be transmitted live by our [Youtube channel](https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ), but a limited number of participants could participate by meet video-conferencing, the interested ones have to fill the following form
 
 
 
-# Day 1 - December 9 2020
+# Day 1 - December 9
 
 -  [Plant-pollination networks, competitive and high dimensionality communities, and adaptive metabolic strategies](dia1.html) 
 
-# Day 2 - December 10 2020
+# Day 2 - December 10 
 
 - [Resilience, Self organization, prediction, economy and Niche Theory](dia2.html) 
 
-# Day 3 - December 11 2020
+# Day 3 - December 11 
 
 - [Earth Bioengineering, carbon cycle, covid19, vector borne diseases and resilience loss](dia3.html) 
+
+# Code of Conduct
+
+- [CDC](cdc.html)
 
 # EcoComplex Collaborators Team {.appendix} 
 
