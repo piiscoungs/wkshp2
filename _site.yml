@@ -4,6 +4,9 @@ description: |
   2nd Complex Systems Workshop 
 output_dir: "docs"
 exclude: ["*.sublime*"]
+creative_commons: CC BY
+twitter:
+  site: "@ecomplex_lab"
 navbar:
   logo:
     image: img/logoungsverde.png
@@ -16,7 +19,10 @@ navbar:
       href: dia2.html
     - text: "Day 3"
       href: dia3.html
-
+    - icon: fab fa-github
+      href: https://github.com/piiscoungs/wkshp2
+    - icon: fab fa-twitter
+      href: https://twitter.com/ecomplex_lab
 output: 
   distill::distill_article:
     toc: true

@@ -25,6 +25,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {}
 Complex systems as interdependent units, which present adaptive behaviors and emerging dynamics are today on everyone's lips, epidemics, fires, climate change, the loss of biodiversity, all of them resulting from complex interactions and feedbacks that have the possibility of changing the balance of the earth as a whole. These extensive and varied networks of interactions that connect different and distant parts are the reason for this workshop: different approaches and different topics that come together in the study of complex systems.
 
+<a href="https://twitter.com/intent/tweet?screen_name=ecomplex_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @ecomplex_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 :::
 
 ::::
@@ -61,13 +63,13 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 # Day 2 - December 10 2020
 
-- [Self organization in complex systems](dia2.html) 
+- [Resilience, Self organization, prediction, economy and Niche Theory](dia2.html) 
 
 # Day 3 - December 11 2020
 
-- [Earth Bioingenieri`ng - Epidemics](dia3.html) 
+- [Earth Bioengineering, carbon cycle, covid19, vector borne diseases and resilience loss](dia3.html) 
 
-# EcoComplex Collaborators Team {.appendix}
+# EcoComplex Collaborators Team {.appendix} 
 
 * Melisa Leyton - UBA IAA (Graphic design)
 
