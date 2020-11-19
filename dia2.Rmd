@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 10:00   13:00       Sebastian Abades                                 No confirmed title / No confirmed time  
 10:50   13:50                                                             
                                    
-11:00   14:00       Natalia Morandeira                               Not confirmed title 
+11:00   14:00   [Natalia Morandeira](https://bit.ly/2HgkzrC)         Not confirmed title 
 11:50   14:50                                                        
                                    
 12:30   15:30   [Hugo Fort](https://bit.ly/32T5JPE)                  Making Quantitative Predictions About Species Abundances 

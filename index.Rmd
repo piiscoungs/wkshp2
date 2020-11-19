@@ -1,7 +1,7 @@
 ---
-title: "2do Workshop de Sistemas Complejos"
-description: |
-  2nd Complex Systems Workshop  - From ecosystems to society and epidemics.
+title: "2do Workshop de Sistemas Complejos "
+description: 
+  2nd Complex Systems Workshop  | 
   December 9 to 11, from 9:00 a.m. to 3:00 p.m.(GMT-3)
 ---
 ```{r setup, include=FALSE}
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# Presentation 
+# From ecosystems to society and epidemics 
 
 :::: {style="display: grid; grid-template-columns: 180px auto; grid-column-gap: 10px;"}
 
@@ -32,7 +32,7 @@ Complex systems as interdependent units, which present adaptive behaviors and em
 ::::
 
 ---
-# Presentación
+# De los ecosistemas a la sociedad y las epidemias
 
 :::: {style="display: grid; grid-template-columns: auto 180px; grid-column-gap: 10px;"}
 

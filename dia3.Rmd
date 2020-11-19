@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
  9:50   12:50                                               
                           
 10:00   13:00   [Ben Bond-Lamberty](https://bit.ly/2INlUa2) Tree mortality and tipping points in the forest carbon cycle”?
-10:50   13:50                                                    
+10:50   13:50       
                           
 11:00   14:00       [Matias Arim](https://bit.ly/32THrVG)   Containment to outbreak tipping points in COVID-19
 11:50   14:50                                              
