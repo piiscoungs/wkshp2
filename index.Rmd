@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {}
 Complex systems as interdependent units, which present adaptive behaviors and emerging dynamics are today on everyone's lips, epidemics, fires, climate change, the loss of biodiversity, all of them resulting from complex interactions and feedbacks that have the possibility of changing the balance of the earth as a whole. These extensive and varied networks of interactions that connect different and distant parts are the reason for this workshop: different approaches and different topics that come together in the study of complex systems.
 
+
 <a href="https://twitter.com/intent/tweet?screen_name=ecomplex_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @ecomplex_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 :::
@@ -32,6 +33,28 @@ Complex systems as interdependent units, which present adaptive behaviors and em
 ::::
 
 ---
+
+# PIISCO history  
+
+:::: {style="display: grid; grid-template-columns: 180px auto; grid-column-gap: 10px;"}
+
+::: {}
+
+<img src="img/MiguelVirasoro.jpg" style="width:160px;border-radius: 50%;"/>
+
+:::
+
+::: {}
+
+The Complex systems group of the University of General Sarmiento (PIISCO) was created by [Miguel Virasoro](https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Virasoro), a pioneer of string-theory and former director of the International Centre for Theoretical Physics [ICTP](https://www.ictp.it/), in 2020 he was awarded the [Dirac Medal of the ICTP](https://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal.aspx).
+
+:::
+
+::::
+
+---
+
+
 # De los ecosistemas a la sociedad y las epidemias
 
 :::: {style="display: grid; grid-template-columns: auto 180px; grid-column-gap: 10px;"}

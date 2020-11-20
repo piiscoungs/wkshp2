@@ -20,8 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
  9:00   12:00   [Ignasi Bartomeus](https://bit.ly/33alHVJ)    Beyond plant-pollinator networks: How intraspecific 
  9:50   12:50                                                 and interspecific interactions shape community persistence
                        
-10:00   13:00   [Susanne Kortsch](https://bit.ly/35JfC3Y)     No confirmed title
-10:50   13:50                                                   
+10:00   13:00   [Susanne Kortsch](https://bit.ly/35JfC3Y)     Disentangling temporal food web dynamics facilitates our 
+10:50   13:50                                                 understanding of ecosystem functioning  
                        
 11:00   14:00       [Korinna Allhoff](https://bit.ly/2UxLWAz) The paradox of the bryozoans: Surprising insights into the 
 11:50   14:50                                                 feedback structure and (in)stability of competitive 
