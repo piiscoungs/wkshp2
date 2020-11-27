@@ -101,6 +101,8 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 # EcoComplex Collaborators Team {.appendix} 
 
+* Leonardo A. Saravia (PIISCO coordinator) `r icon::fa_twitter()` @larysar
+
 * Melisa Leyton - UBA IAA (Graphic design)
 
-* Tomas Marina - CONICET CADIC (Organization)
+* Tomas Marina - CONICET CADIC (Organization) `r icon::fa_twitter()` @ecomplex_lab
