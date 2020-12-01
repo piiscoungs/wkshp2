@@ -6,7 +6,7 @@ output_dir: "docs"
 exclude: ["*.sublime*"]
 creative_commons: CC BY
 twitter:
-  site: "@ecomplex_lab"
+  site: "@ECOmplex_lab"
 navbar:
   logo:
     image: img/logoungsverde.png
@@ -23,8 +23,12 @@ navbar:
       href: cdc.html
     - icon: fab fa-github
       href: https://github.com/piiscoungs/wkshp2
+    - icon: fab fa-youtube
+      href: https://www.youtube.com/channel/UC-Ww0kQ1Ybnd7wETDA9BxMQ
+    - icon: fab fa-instagram
+      href: https://instagram.com/ECOmplex_lab
     - icon: fab fa-twitter
-      href: https://twitter.com/ecomplex_lab
+      href: https://twitter.com/ECOmplex_lab
 output: 
   distill::distill_article:
     toc: true
