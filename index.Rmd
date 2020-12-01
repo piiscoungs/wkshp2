@@ -103,6 +103,8 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 * Leonardo A. Saravia (PIISCO coordinator) `r icon::fa_twitter()` @larysar
 
+* Iara D. Rodriguez - CONICET UNGS (Graphic design) `r icon::fa_instagram()` @ECOmplex_lab
+
 * Melisa Leyton - UBA IAA (Graphic design)
 
-* Tomas Marina - CONICET CADIC (Organization) `r icon::fa_twitter()` @ecomplex_lab
+* Tomas Marina - CONICET CADIC (Organization) `r icon::fa_twitter()` @ECOmplex_lab
