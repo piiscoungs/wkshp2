@@ -99,7 +99,7 @@ Los sistemas complejos como unidades interdependientes, que presentan comportami
 
 - [CDC](cdc.html)
 
-# EcoComplex Collaborators Team {.appendix} 
+# ECOmplex Collaborators Team {.appendix} 
 
 * Leonardo A. Saravia (PIISCO coordinator) `r icon::fa_twitter()` @larysar
 
