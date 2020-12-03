@@ -20,11 +20,12 @@ knitr::opts_chunk$set(echo = FALSE)
  9:00   12:00   [Max Rietkerk](https://bit.ly/3pBkwrR)               Resilience and self-organization of complex ecosystems
  9:50   12:50                                                        
                                    
-10:00   13:00       Sebastian Abades                                 No confirmed title / No confirmed time  
+10:00   13:00   [Leonardo A. Saravia](https://lsaravia.github.io/)   Global tipping points in forest wildfires
 10:50   13:50                                                             
                                    
-11:00   14:00   [Natalia Morandeira](https://bit.ly/2HgkzrC)         Not confirmed title 
-11:50   14:50                                                        
+11:00   14:00   [Natalia Morandeira](https://bit.ly/2HgkzrC)         Remote sensing of the Paraná River floodplain: the  
+11:50   14:50                                                        contribution of active microwave data to assess wetland, 
+                                                                     vegetation and hydrological changes
                                    
 12:30   15:30   [Hugo Fort](https://bit.ly/32T5JPE)                  Making Quantitative Predictions About Species Abundances 
 13:20   16:20                                                        In Multispecies Communities With Incomplete Information
