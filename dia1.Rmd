@@ -17,20 +17,21 @@ knitr::opts_chunk$set(echo = FALSE)
    Hora    Time     Expositor /                               Título / 
   (ARG)   (GMT)     Speaker                                   Title
 ------- ------- --------------------------------------------- ----------------------------------------------------------
- 9:00   12:00   [Ignasi Bartomeus](https://bit.ly/33alHVJ)    Beyond plant-pollinator networks: How intraspecific 
- 9:50   12:50                                                 and interspecific interactions shape community persistence
-                       
-10:00   13:00   [Susanne Kortsch](https://bit.ly/33xyIbW)     Disentangling temporal food web dynamics facilitates
-10:50   13:50                                                 understanding of ecosystem functioning  
-                       
-11:00   14:00       [Korinna Allhoff](https://bit.ly/2UxLWAz) The seabed is a battlefield: Surprising insights into 
-11:50   14:50                                                 the (in)stability of (benthic) competitive communities
-                                                              from a network approach
-                          
-12:30   15:30       [Guy Bunin](https://bit.ly/35JFaOn)       Fingerprints of high-dimensionality in diverse communities
-13:20   16:20                
+ 9:00   12:00   [Ignasi Bartomeus](https://bit.ly/33alHVJ) |  Beyond plant-pollinator networks: How intraspecific 
+ 9:50   12:50   [Talk](https://youtu.be/SJwoY8dDEP4?t=330)    and interspecific interactions shape community persistence
 
-13:30   16:30   [Samir Suweis](https://suweis.github.io/)     Adaptive metabolic strategies in consumer-resource models
-14:20   17:20                                            
+                       
+10:00   13:00   [Susanne Kortsch](https://bit.ly/33xyIbW) |   Disentangling temporal food web dynamics facilitates
+10:50   13:50   [Talk](https://youtu.be/iSKvjFEmTRo?t=267)    understanding of ecosystem functioning  
+                       
+11:00   14:00   [Korinna Allhoff](https://bit.ly/2UxLWAz)     The paradox of the bryozoans: Surprising insights into the 
+11:50   14:50   | [Talk](https://youtu.be/kDcv2PyNOrU?t=180)  feedback structure and (in)stability of competitive 
+                                                              communities from a mathematical network approach
+                          
+12:30   15:30   [Guy Bunin](https://bit.ly/35JFaOn) |         Fingerprints of high-dimensionality in diverse communities
+13:20   16:20   [Talk](https://youtu.be/1Ik6dIX2Th0?t=330)         
+
+13:30   16:30   [Samir Suweis](https://suweis.github.io/) |   Adaptive metabolic strategies in consumer-resource models
+14:20   17:20   [Talk](https://youtu.be/iceYoyzxasU?t=324)                                         
                        
 ------------------------------------------------------------------------------------------------------------------------ 
