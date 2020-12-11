@@ -16,19 +16,19 @@ knitr::opts_chunk$set(echo = FALSE)
    Hora    Time      Expositor /                            Título / 
   (ARG)   (GMT)      Speaker                                Title
 ------- ------- ------------------------------------------- ----------------------------------------------------------
- 9:00   12:00   [Ricard Solé](https://bit.ly/38YPqUW)       Bioengineering the biosphere: the multiscale picture
- 9:50   12:50                                               
+ 9:00   12:00   [Ricard Solé](https://bit.ly/38YPqUW) |      Bioengineering the biosphere: the multiscale picture
+ 9:50   12:50   [Talk](https://youtu.be/LkIwZU1rMSU?t=233)                                            
                           
 10:00   13:00   [Ben Bond-Lamberty](https://bit.ly/2INlUa2) Tree mortality and tipping points in the forest carbon cycle”?
-10:50   13:50       
+10:50   13:50   | [Talk](https://youtu.be/INqubEoF7gE?t=192)    
                           
-11:00   14:00       [Matias Arim](https://bit.ly/32THrVG)   Containment to outbreak tipping points in COVID-19
-11:50   14:50                                              
+11:00   14:00     [Matias Arim](https://bit.ly/32THrVG) |   Containment to outbreak tipping points in COVID-19
+11:50   14:50   [Talk](https://youtu.be/UsBmo2cElLc?t=191)                                           
                           
-12:30   15:30   [Pilar Fernandez](https://bit.ly/2UCzdwi)   Vector-borne diseases as complex socio-ecological systems
-13:20   16:20   
+12:30   15:30   [Pilar Fernandez](https://bit.ly/2UCzdwi) | Vector-borne diseases as complex socio-ecological systems
+13:20   16:20   [Talk](https://youtu.be/gZacu67yPME?t=286)
                 
-13:30   16:30      [Juan Rocha](https://www.juanrocha.se/)  Detecting resilience loss in ecosystems
-14:20   17:20                                 
+13:30   16:30   [Juan Rocha](https://www.juanrocha.se/) |   Detecting resilience loss in ecosystems
+14:20   17:20   [Talk](https://youtu.be/xAvSe7tHmxs?t=217)                              
                  
 ----------------------------------------------------------- ------------------------------------------------------------
