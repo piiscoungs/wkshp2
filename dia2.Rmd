@@ -17,21 +17,22 @@ knitr::opts_chunk$set(echo = FALSE)
    Hora    Time     Expositor /                                      Título / 
   (ARG)   (GMT)     Speaker                                          Title
 ------- ------- ---------------------------------------------------- ----------------------------------------------------------
- 9:00   12:00   [Max Rietkerk](https://bit.ly/3pBkwrR)               Resilience and self-organization of complex ecosystems
- 9:50   12:50                                                        
+ 9:00   12:00   [Max Rietkerk](https://bit.ly/3pBkwrR) |             Resilience and self-organization of complex ecosystems
+ 9:50   12:50   [Talk](https://youtu.be/_4dbsRuKXTw?t=270)           
                                    
 10:00   13:00   [Leonardo A. Saravia](https://lsaravia.github.io/)   Global tipping points in forest wildfires
-10:50   13:50                                                             
+10:50   13:50   | [Talk](https://youtu.be/Px0B4Gq_FkM?t=106)                 
                                    
-11:00   14:00   [Natalia Morandeira](https://bit.ly/2HgkzrC)         Remote sensing of the Paraná River floodplain: the  
-11:50   14:50                                                        contribution of active microwave data to assess wetland, 
+11:00   14:00   [Natalia Morandeira](https://bit.ly/2HgkzrC) |       Remote sensing of the Paraná River floodplain: the  
+11:50   14:50 ´ [Talk](https://youtu.be/zSLN1VM33O0?t=175)           contribution of active microwave data to assess wetland, 
                                                                      vegetation and hydrological changes
                                    
-12:30   15:30   [Hugo Fort](https://bit.ly/32T5JPE)                  Making Quantitative Predictions About Species Abundances 
-13:20   16:20                                                        In Multispecies Communities With Incomplete Information
+12:30   15:30   [Hugo Fort](https://bit.ly/32T5JPE) |                Making Quantitative Predictions About Species Abundances 
+13:20   16:20   [Talk](https://youtu.be/txTplrhb2Hw?t=172) |
+                [Talk 2nd Part](https://youtu.be/kz3a4JVVlzY)
                                    
 13:30   16:30   [Fernanda Valdovinos](https://www.fsvaldovinos.com/) Integrating Network Ecology with other theories: The cases 
-14:20   17:20                                                        of Economic dynamics and Niche Theory
+14:20   17:20   | [Talk](https://youtu.be/Eobmp-KImfU?t=26)          of Economic dynamics and Niche Theory
                                     
 ------------------------------------------------------------------------------------------------------------------------------- 
 
